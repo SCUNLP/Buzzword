@@ -1,6 +1,8 @@
 ## Can Large Language Models Understand Internet Buzzwords Through User-Generated Content
 > Accepted by ACL 2025 (Main)
 
+**Paper Link**: [our paper](https://www.arxiv.org/abs/2505.15071)
+
 <img src="./read.png" alt="drawing" style="width:500px;"/>
 
 
